@@ -2,7 +2,7 @@
   <div class="container">
 
     <div id="logo" class="pull-left">
-     <h1><a href="index.html" id="body" class="scrollto"><span style="color: red;">Rent</span>A Car</a></h1> 
+     <h1><a href="index.php" id="body" class="scrollto"><span style="color: red;">Rent</span>A Car</a></h1> 
      <!-- <a href="#body"><img src="img/logo.png" alt="" title="" /></a>-->
    </div>
    <div class="pull-left ml-4">
