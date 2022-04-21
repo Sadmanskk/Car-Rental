@@ -66,7 +66,7 @@ error_reporting(0);
       <section id="services">
         <div class="container">
           <div class="section-header">
-            <h2>Find the Best Car for you</h2>
+            <h2> Best Cars for you</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt fugiat culpa esse aute nulla. malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
           </div>
 
@@ -119,12 +119,9 @@ error_reporting(0);
           </div>
 
           <div class="owl-carousel clients-carousel">
-            <img src="img/clients/client-1.png" alt="">
             <img src="img/clients/client-2.png" alt="">
             <img src="img/clients/client-3.png" alt="">
             <img src="img/clients/client-4.png" alt="">
-            <img src="img/clients/client-5.png" alt="">
-            <img src="img/clients/client-6.png" alt="">
           </div>
 
         </div>
@@ -182,3 +179,4 @@ error_reporting(0);
 
   </body>
   </html>
+
