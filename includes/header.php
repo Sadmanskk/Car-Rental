@@ -2,7 +2,7 @@
   <div class="container">
 
     <div id="logo" class="pull-left">
-     <h1><a href="index.html" id="body" class="scrollto"><span style="color: red;">Car</span>Rental</a></h1> 
+     <h1><a href="index.html" id="body" class="scrollto"><span style="color: red;">Rent</span>A Car</a></h1> 
      <!-- <a href="#body"><img src="img/logo.png" alt="" title="" /></a>-->
    </div>
    <div class="pull-left ml-4">
@@ -24,10 +24,8 @@
     <ul class="nav-menu">
       <li class="menu-active"><a href="index.php">Home</a></li>
       <li><a href="about.php">About Us</a></li>
-      <li><a href="car_list.php">Car list</a></li>
       <li><a href="contact.php">Contact</a></li>
       <li><a href="portfolio.php">Gallery</a></li>
-      <li><a href="admin">Admin</a></li>
       <?php   if(strlen($_SESSION['login'])!=0)
       { 
         ?>
